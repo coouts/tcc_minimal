@@ -1,0 +1,6 @@
+@tcc_minimal_HostAddress = http://localhost:5004
+
+GET {{tcc_minimal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

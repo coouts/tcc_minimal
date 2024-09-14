@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DgXAONVvj72hKXHF7uNkhdWotCBKH4JeWdh6Jp62KDM=",
+  "Source": "tcc_minimal",
+  "BasePath": "_content/tcc_minimal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
