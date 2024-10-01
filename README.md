@@ -6,7 +6,7 @@ Estou fazendo o trabalho individual, um site sobre fianaças pessoais! Para a pe
 
 Abaixo, uma ideia de como iria ficar pelo Figma: 
 
-Figma - <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/zST3jksxy2ck0LWx2oQT7g/TCC?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+Figma - "https://embed.figma.com/design/zST3jksxy2ck0LWx2oQT7g/TCC?node-id=0-1&embed-host=share"
 
 Funcionalidades até então:
 
